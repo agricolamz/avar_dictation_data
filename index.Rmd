@@ -8,7 +8,7 @@ editor_options:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, fig.width = 9, fig.height = 7)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, fig.width = 12, fig.height = 7)
 ```
 
 Данные являются результатом проведения аварского диктанта в Махачкале и Санкт-Петербурге. Спасибо Расулу Абдулхаликову за то, что поделился данными. Расул, сюда нужно больше текста про этот проект или может быть ссылку...
